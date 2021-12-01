@@ -1,3 +1,3 @@
 # admin-crud-firebase
 
-## Firebase CRUD app with React.
+A Firebase CRUD app with React.
